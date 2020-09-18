@@ -22,7 +22,7 @@ AFL/AFL++ consider a crash unique based on **the trace bitmap**. `triage_crashes
 $ <path_to_triage_crashes.sh> <path_to_afl_output_dir_to_tested_binary> <path_to_afl_output_dir_to_tested_binary> [...target params...]
 ```
 
-## 2. <a name="exploitable-id"></a>[explitable](https://github.com/jfoote/exploitable)
+## 2. <a name="exploitable-id"></a>[exploitable](https://github.com/jfoote/exploitable)
 
 > triage crashes empirically by exploitablity level based on the behavior of crash
 
